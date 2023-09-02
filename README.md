@@ -1,4 +1,4 @@
-README.rd
+
 
 Setup AWS:
 - aws configure
